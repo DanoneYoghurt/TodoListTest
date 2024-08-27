@@ -21,7 +21,6 @@
    - Данные о задачах должны сохраняться в CoreData.
    - Приложение должно корректно восстанавливать данные при повторном запуске.
 
-<img src="https://github.com/user-attachments/assets/9574b80e-b143-4f34-acbf-a6136afacf94" width="295" height="699">
-<img src="https://github.com/user-attachments/assets/f16af331-ad0f-4925-8675-6b9872fd022a" width="295" height="699">
+<img src="https://github.com/user-attachments/assets/88342bda-0915-4d45-832a-8c3e1b174ef0" width="295" height="699">
 <img src="https://github.com/user-attachments/assets/77f1af4d-25cd-4b85-85b7-caa4b8fe2d3e" width="295" height="699">
-<img src="https://github.com/user-attachments/assets/cce4e349-a079-464f-9ef3-b3457d2f0ee6" width="295" height="699">
+<img src="https://github.com/user-attachments/assets/f16af331-ad0f-4925-8675-6b9872fd022a" width="295" height="699">
