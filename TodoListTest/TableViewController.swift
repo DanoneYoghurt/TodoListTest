@@ -51,7 +51,7 @@ class TableViewController: UITableViewController {
                             todoItem.todo = todo.todo
                             todoItem.completed = todo.completed
                             todoItem.userId = Int64(todo.userId)
-                            todoItem.todoDescription = "No description"
+                            todoItem.todoDescription = nil
                             todoItem.dateAdded = Date.now
                         }
                         
